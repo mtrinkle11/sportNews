@@ -1,0 +1,24 @@
+{
+  "name": "sportnews",
+  "version": "1.0.0",
+  "description": "football news",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtrinkle11/sportNews.git"
+  },
+  "author": "Michael Trinkle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtrinkle11/sportNews/issues"
+  },
+  "homepage": "https://github.com/mtrinkle11/sportNews#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  }
+}
